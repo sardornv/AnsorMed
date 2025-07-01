@@ -222,6 +222,7 @@ ul{
     font-family: "Open Sans Condensed";
     font-size: 36px;
     display: flex;
+    align-items: center;
     justify-content: center;
     margin-top: 64px;
     padding-bottom: 40px;
