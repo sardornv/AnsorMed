@@ -212,7 +212,11 @@ ul{
     background-color: #0EB4C1;
 }
 
-
+.cta-contact{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
 
 .cta-title{
     font-family: "Open Sans Condensed";
